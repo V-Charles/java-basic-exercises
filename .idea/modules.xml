@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex01_basic-calculator-java/ex01_basic-calculator-java.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex01_basic-calculator-java/ex01_basic-calculator-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex01_negative-number-check/ex01_negative-number-check.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex01_negative-number-check/ex01_negative-number-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex02_circle-area-calculator-java/ex02_circle-area-calculator-java.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex02_circle-area-calculator-java/ex02_circle-area-calculator-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex02_even-or-odd/ex02_even-or-odd.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex02_even-or-odd/ex02_even-or-odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex03_difference-of-products-java/ex03_difference-of-products-java.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex03_difference-of-products-java/ex03_difference-of-products-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex03_multiples-check/ex03_multiples-check.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex03_multiples-check/ex03_multiples-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex04_employee-salary-java/ex04_employee-salary-java.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex04_employee-salary-java/ex04_employee-salary-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex04_game-duration/ex04_game-duration.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex04_game-duration/ex04_game-duration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex05_order-total/ex05_order-total.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex05_order-total/ex05_order-total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex05_sales-calculation/ex05_sales-calculation.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex05_sales-calculation/ex05_sales-calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_sequential_structure/ex06_areas-calculations/ex06_areas-calculations.iml" filepath="$PROJECT_DIR$/1_sequential_structure/ex06_areas-calculations/ex06_areas-calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex06_interval-check/ex06_interval-check.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex06_interval-check/ex06_interval-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_conditional_statements/ex07_quadrant-check/ex07_quadrant-check.iml" filepath="$PROJECT_DIR$/2_conditional_statements/ex07_quadrant-check/ex07_quadrant-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basic-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-basic-exercises.iml" />
+    </modules>
+  </component>
+</project>
